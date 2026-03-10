@@ -1,5 +1,6 @@
 public class UC1 {
     public static void print(){
-        System.out.println("OOPS");
+        System.out.println("OOPS"); //Basic print
     }
+
 }
